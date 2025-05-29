@@ -24,14 +24,15 @@ This project implements a **brain tumor detection system** using a YOLO-based ob
 - **Perfect Recall for Meningioma Class**: 100%
 
 ---
+## 🧠 Dataset
+The dataset includes MRI images labeled for Pituitary, Meningioma, Glioma, and No Tumor classes.
+
 
 ## 🚀 How to Run the Notebook
 
 1️⃣ **Clone the Repository**:
 ```bash
-git clone <[your-repository-url](https://github.com/Sajanm2058?tab=repositories)>
+git clone <https://github.com/Sajanm2058?tab=repositories>
 cd Brain_Tumor_Detection
 
-## 🧠 Dataset
-The dataset includes MRI images labeled for Pituitary, Meningioma, Glioma, and No Tumor classes.
 
